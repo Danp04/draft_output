@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Job market.htm'],s:['02'],p:[['02',15],['of',21]]});
